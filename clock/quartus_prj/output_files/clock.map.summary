@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Feb 22 17:39:17 2026
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : clock
+Top-level Entity Name : clock
+Family : Cyclone IV E
+Total logic elements : 248
+    Total combinational functions : 248
+    Dedicated logic registers : 117
+Total registers : 117
+Total pins : 47
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
